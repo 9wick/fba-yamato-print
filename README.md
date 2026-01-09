@@ -1,10 +1,10 @@
 # fba-yamato-print
 
-Amazon FBAから出力されるPDFを、クロネコヤマトのA5横印刷用紙に合わせて印刷するための簡易ツールです。`pdf.html` をローカルで開くだけで使えます。
+Amazon FBAから出力されるPDFを、クロネコヤマトのA5横印刷用紙に合わせて印刷するための簡易ツールです。[Webページ](https://9wick.github.io/fba-yamato-print/) をローカルで開くだけで使えます。
 
 ## 使い方
 
-1. `pdf.html` をブラウザで開く
+1. [Webページ](https://9wick.github.io/fba-yamato-print/)  をブラウザで開く
 2. PDFをドラッグ＆ドロップ（または右上のファイル選択）
 3. Scale/Offsetを調整してプレビュー位置を合わせる
 4. 印刷ボタンでA5横・余白0で印刷
